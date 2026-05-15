@@ -89,3 +89,4 @@ Built-in PWA support — open `mos.sankalpinterior.com` on iPhone/Android → **
 ## 📄 License
 
 Private internal software for Sankalp Interior Solution. Not for public distribution.
+auto deploy permission test
